@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/lxxzdrgnl/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/lxxzdrgnl/LeetCode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lxxzdrgnl/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/lxxzdrgnl/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/lxxzdrgnl/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
