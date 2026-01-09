@@ -15,7 +15,7 @@ public:
             for (int j = 0; j < n; j++) {
                 temp.push_back(grid[j][i]);
             }
-            if (grid_map.find(temp) != grid_map.end() ) result += grid_map[temp];;
+            if (grid_map.find(temp) != grid_map.end() ) result += grid_map[temp];
         }
 
         return result;
